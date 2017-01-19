@@ -1,0 +1,1 @@
+klimtlteub (SM-T705M) device repo for LineageOS.
